@@ -1,5 +1,5 @@
 --platform=linux/arm64 nginx
 --platform=linux/arm64 jenkins/jenkins:2.426.3-lts
---platform=linux/arm64 docker.bintray.io/jfrog/artifactory-oss:6.9.9
+--platform=linux/arm64 docker.bintray.io/jfrog/artifactory-oss:6.9.0
 --platform=linux/arm64 sonarqube:latest
 --platform=linux/arm64 postgres:latest
