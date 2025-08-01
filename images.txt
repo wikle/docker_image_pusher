@@ -4,3 +4,4 @@
 --platform=linux/arm64 postgres:latest
 --platform=linux/arm64 peterzhang921/cboard:0.4.1
 eucm/simplesamlphp
+ghcr.io/goauthentik/server:latest
